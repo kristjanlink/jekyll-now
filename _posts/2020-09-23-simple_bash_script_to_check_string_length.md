@@ -12,7 +12,7 @@ echo ${#1}
 
 That's it! All you need to do now is save it as something short and convenient (I called it len without the ".sh" extension because I use Python a lot) and move it to the "bin" directory. Linux users may have to give it execution permissions. I am using MINGW64 on Windows where this step isn't required.
 
-Now, given that there's a file called "len" in the "bin" directory with the above code, it should work by just typing "len <string>" (don't forget quotes if your string has spaces!):
+Now, given that there's a file called "len" in the "bin" directory with the above code, it should work by just typing "len" followed by a space and the string (don't forget quotes if your string has spaces!):
 
 {% highlight bash %}
 User@Computer MINGW64 /
@@ -20,4 +20,4 @@ $ len "this is a string"
 16
 {% endhighlight %}
 
-Just how it should be, simple but useful. This hack could go far beyond mere commit messages. Put this script to good use!
+Just how it should be, simple but useful. This script can have a wide range of applications. Put it to good use!
