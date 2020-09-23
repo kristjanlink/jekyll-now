@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A simple bash script to check string length
+title: A simple Bash script to check string length
 ---
 
 Right now I use Git from Bash. As you may be aware, good commit messages should have less than 50 characters for the initial line and less than 72 (I use this limit) for the following lines (don't forget to separate them with a blank line!). I needed a way to check the length of my commit messages from the command line. Using online tools for this seemed like too much of a hassle, so I just made a simple script to do this for me from the command line:
