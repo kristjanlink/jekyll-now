@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-IT enthusiast
+An IT enthusiast always looking for more ways to make life easier with the help of IT.
 
 ### More Information
 
